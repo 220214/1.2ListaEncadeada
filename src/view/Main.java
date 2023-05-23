@@ -13,7 +13,7 @@ public class Main {
 			p.setNumero(valor);
 			c.Adicionar(p);
 		}
-		try {
+		try {//eu não estou conseguindo fazer esta parte ... o senhor poderia me ajudar?
 			c.lista(3);
 			c.lista(2);
 		} catch (Exception e) {
